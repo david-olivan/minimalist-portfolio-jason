@@ -2,11 +2,11 @@
     "basics": {
       "name": "David Oliván Malagón",
       "label": "Desarrollador web, educador y programador",
-      "image": "public/profile.jpeg",
+      "image": "/profile.jpeg",
       "email": "david.olivan.93@gmail.com",
       "phone": "654 71 64 78",
       "url": "",
-      "summary": "Soy desarrollador web, programador y educador con amplia experiencia en este último sector. He impartido cursos de certificación del INAEM y SEPE, en diferentes centros, formando a docenas de alumnos en desarrollo web, UI/UX e Inglés. También he desarrollado varias páginas web, tento personales como profesionales, usando tecnologías como HTML5 y herramientas de autor como WordPress. Me apasiona aprender cosas nuevas y estar al día de las últimas tendencias y novedades del mundo digital. Destaco a la hora de aprender rápidamente, gestionar y organizar procesos, y diseñar cursos. Mi objetivo es seguir creciendo como profesional y aportar valor a la empresa o proyecto en el que me involucre.",
+      "summary": "Soy desarrollador web, programador y educador con amplia experiencia en este último sector. He impartido cursos de certificación del INAEM y SEPE, en diferentes centros, formando a docenas de alumnos en Desarrollo Web, UI/UX e Inglés. También he desarrollado varias páginas web, tanto personales como profesionales, usando tecnologías como HTML5 y herramientas de autor como WordPress. Me apasiona aprender cosas nuevas y estar al día de las últimas tendencias y novedades del mundo digital. Destaco a la hora de aprender rápidamente, gestionar y organizar procesos, y diseñar cursos y contenidos. Mi objetivo es seguir creciendo como profesional y aportar valor a la empresa o proyecto en el que me involucre.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -94,6 +94,13 @@
       "summary": "There is no spoon."
     }],
     "certificates": [
+      {
+        "name": "Curso de Producción de Audiolibros",
+        "date": "",
+        "issuer": "RTVE - Instituto Haz",
+        "description": "Nothing so far",
+        "url": "/audiolibros.pdf"
+      },
       {
         "name": "Conceptos básicos de Código y Buenas Prácticas en HTML5",
         "date": "2023-01-05",
