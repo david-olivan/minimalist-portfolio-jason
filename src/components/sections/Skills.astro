@@ -2,14 +2,24 @@
 import Section from "../Section.astro";
 
 import { skills } from "../../../cv.json"
+import { languages } from "../../../cv.json"
+
+const { title } = Astro.props
 ---
 
-<Section title="Skills">
+<Section title={title || "Skills"}>
     <ul>
         {
-            skills.map(({ name }) => (
-                <li>
+            skills.map(({ name, type }) => (
+                <li class={type}>
                     <span>{name}</span>
+                </li>
+            ))
+        }
+        {
+            languages.map(({ language }) => (
+                <li class="lang">
+                    <span>{language}</span>
                 </li>
             ))
         }
@@ -25,10 +35,26 @@ import { skills } from "../../../cv.json"
 
     li {
         border-radius: 6px;
-        background: #eee;
+        background: var(--color-pildora);
         color: black;
         font-size: 0.8rem;
         font-weight: 500;
         padding: 0.2rem 0.6rem;
+
+        &.tech {
+            background-color: #c5eefe;
+        }
+
+        &.code {
+            background-color: #c9fec5;
+        }
+
+        &.lang {
+            background-color: #fef4c5;
+        }
+
+        &.edu {
+            background-color: #fec5c5;
+        }
     }
 </style>

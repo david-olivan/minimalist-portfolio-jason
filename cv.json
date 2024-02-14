@@ -1,36 +1,67 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
-      "image": "https://cdn.openart.ai/published/xJj2YOLrEJPSwToGeX5j/wJG_UfiG_A_DG_512.webp",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "name": "David Oliván Malagón",
+      "label": "Desarrollador web, educador y programador",
+      "image": "public/profile.jpeg",
+      "email": "david.olivan.93@gmail.com",
+      "phone": "654 71 64 78",
+      "url": "",
+      "summary": "Soy desarrollador web, programador y educador con amplia experiencia en este último sector. He impartido cursos de certificación del INAEM y SEPE, en diferentes centros, formando a docenas de alumnos en desarrollo web, UI/UX e Inglés. También he desarrollado varias páginas web, tento personales como profesionales, usando tecnologías como HTML5 y herramientas de autor como WordPress. Me apasiona aprender cosas nuevas y estar al día de las últimas tendencias y novedades del mundo digital. Destaco a la hora de aprender rápidamente, gestionar y organizar procesos, y diseñar cursos. Mi objetivo es seguir creciendo como profesional y aportar valor a la empresa o proyecto en el que me involucre.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "",
+        "postalCode": "",
+        "city": "Zaragoza",
+        "countryCode": "ES",
+        "region": "Aragón"
       },
-      "profiles": [{
-        "network": "X",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+        {
+        "network": "LinkedIn",
+        "username": "david oliván malagón",
+        "url": "https://www.linkedin.com/in/david-oliv%C3%A1n-malag%C3%B3n-875043148/"
+        },
+        {
+          "network": "GitHub",
+          "username": "david-olivan",
+          "url": "https://github.com/david-olivan"
+        }
+      ]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+    "work": [
+      {
+      "name": "Desarrollo Web para Certificado de Edicion de Productos Multimedia",
+      "position": "Docente de Desarrollo Web, UI/UX y Usabilidad",
+      "url": "",
+      "startDate": "2022-01-01",
       "summary": "Description…",
       "highlights": [
-        "Started the company"
-      ]
-    }],
+        "CEOE",
+        "King's Corner"
+        ]
+      },
+      {
+        "name": "Certificados de Idiomas del INAEM (Inglés)",
+        "position": "Docente de Inglés",
+        "url": "",
+        "startDate": "2023-01-01",
+        "endDate": "2023",
+        "summary": "Description…",
+        "highlights": [
+          "SAAT",
+          "Qualitas"
+          ]
+        },
+        {
+          "name": "Cruz Roja",
+          "position": "Especialista en Musicoterapia",
+          "url": "",
+          "startDate": "2019-01-01",
+          "endDate": "2020",
+          "summary": "Description…",
+          "highlights": [
+            ]
+          }
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
@@ -42,30 +73,70 @@
         "Awarded 'Volunteer of the Month'"
       ]
     }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
+    "education": [
+      {
+        "institution": "University",
+        "url": "https://institution.com/",
+        "area": "Software Development",
+        "studyType": "Bachelor",
+        "startDate": "2011-01-01",
+        "endDate": "2013-01-01",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      }
+    ],
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
     }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
+    "certificates": [
+      {
+        "name": "Conceptos básicos de Código y Buenas Prácticas en HTML5",
+        "date": "2023-01-05",
+        "issuer": "W3Cx",
+        "description": "Description...",
+        "url": "https://courses.edx.org/certificates/502e5ff08f754fbdb6a5eb465f8b4076?_gl=1*1o6bbpk*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
+      },
+      {
+        "name": "CS50 Introducción a la Programación con Python",
+        "date": "2023-01-05",
+        "issuer": "HarvardX",
+        "description": "Description...",
+        "url": "https://courses.edx.org/certificates/69b7a9a6c1584c83924d989263ed70c2?_gl=1*1gee28i*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
+      },
+      {
+        "name": "Fundamentos de HTML5 y CSS",
+        "date": "2022-09-12",
+        "issuer": "W3Cx",
+        "description": "Description...",
+        "url": "https://courses.edx.org/certificates/c110570028fc4fd29c12c2c60e81618f?_gl=1*1gee28i*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
+      },
+      {
+        "name": "CSS Esencial",
+        "date": "2022-09-04",
+        "issuer": "W3Cx",
+        "description": "Description...",
+        "url": "https://courses.edx.org/certificates/b6e64314c10a4bce977247a53bf3bb9c?_gl=1*1ahocin*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
+      },
+      {
+        "name": "CS50 Introducción a Ciencias de la Computación",
+        "date": "2022-01-14",
+        "issuer": "HardvardX",
+        "description": "Description...",
+        "url": "https://courses.edx.org/certificates/83c8d0aebb0b4a089873cd5164eeb99b?_gl=1*1iatsp1*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
+      },
+      {
+        "name": "Certificado de Formación del Profesorado en Didáctica del Inglés",
+        "date": "2019-11-07",
+        "issuer": "UNED",
+        "description": "Description...",
+        "url": ""
+      }
+    ],
     "publications": [{
       "name": "Publication",
       "publisher": "Company",
@@ -75,23 +146,26 @@
     }],
     "skills": [
       {
-        "name": "HTML",
+        "name": "HTML5",
         "level": "Avanzado",
+        "type": "code",
         "keywords": [
           "Desarrollo Web",
           "Frontend"
         ]
       },
       {
-        "name": "CSS",
+        "name": "CSS3",
         "level": "Avanzado",
+        "type": "code",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript E6",
         "level": "Avanzado",
+        "type": "code",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
@@ -99,6 +173,7 @@
       {
         "name": "PHP",
         "level": "Principiante",
+        "type": "code",
         "keywords": [
           "Desarrollo Web",
           "Backend",
@@ -109,6 +184,7 @@
       {
         "name": "Flask",
         "level": "Principiante",
+        "type": "tech",
         "keywords": [
           "Desarrollo Web",
           "Backend",
@@ -120,6 +196,7 @@
       {
         "name": "Moodle",
         "level": "Principiante",
+        "type": "tech",
         "keywords": [
           "Plataforma de Aprendizaje",
           "Educación en Línea",
@@ -130,6 +207,7 @@
       {
         "name": "SQL",
         "level": "Intermedio",
+        "type": "code",
         "keywords": [
           "Base de Datos",
           "Lenguaje de Consulta",
@@ -140,6 +218,7 @@
       {
         "name": "Python",
         "level": "Avanzado",
+        "type": "code",
         "keywords": [
           "Lenguaje de Programación",
           "Backend",
@@ -151,6 +230,7 @@
       {
         "name": "WordPress",
         "level": "Avanzado",
+        "type": "tech",
         "keywords": [
           "CMS",
           "Gestión de Contenidos",
@@ -159,12 +239,42 @@
           "Temas",
           "Plugins"
         ]
-      }      
+      },
+      {
+        "name": "Astro",
+        "level": "Principiante",
+        "type": "tech",
+        "keywords": [
+          "Desarrollo Web",
+          "Framework"
+        ]
+      },
+      {
+        "name": "Metodologías activas",
+        "level": "",
+        "type": "edu"
+      },
+      {
+        "name": "PBL",
+        "level": "",
+        "type": "edu"
+      },
+      {
+        "name": "TBL",
+        "level": "",
+        "type": "edu"
+      }
     ],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
-    }],
+    "languages": [
+      {
+        "language": "Inglés",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Español",
+        "fluency": "Native speaker"
+      }
+    ],
     "interests": [{
       "name": "Wildlife",
       "keywords": [

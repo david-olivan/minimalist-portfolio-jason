@@ -3,10 +3,19 @@ import Section from "../Section.astro";
 
 import { basics } from "../../../cv.json"
 const { summary } = basics
+const { title } = Astro.props
 ---
 
-<Section title="Sobre mí">
+<Section title={title || "Sobre mí"}>
     <p>
         { summary }
     </p>
 </Section>
+
+<style>
+    p {
+        text-align: justify;
+        text-wrap: pretty;
+        text-indent: 25px;
+    }
+</style>
