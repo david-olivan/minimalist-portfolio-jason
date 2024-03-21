@@ -1,5 +1,10 @@
-Schema del JSON de CV:
+---
+    title: CV Minimalista
+---
+# CV minimalista
+
+## Schema del JSON de CV:
 https://jsonresume.org/schema/
 
-Basado en el diseño de:
+## Basado en el diseño de:
 https://github.com/BartoszJarocki/cv

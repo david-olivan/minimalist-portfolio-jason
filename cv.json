@@ -33,7 +33,7 @@
       "position": "Docente de Desarrollo Web, UI/UX y Usabilidad",
       "url": "",
       "startDate": "2022-01-01",
-      "summary": "Description…",
+      "summary": "Módulos y UFs de desarrollo en en Certificados Multimedia, usando proyectos prácticos y ejercicios para la adquisición de las competencias pertinentes.",
       "highlights": [
         "CEOE",
         "King's Corner"
@@ -45,20 +45,32 @@
         "url": "",
         "startDate": "2023-01-01",
         "endDate": "2023",
-        "summary": "Description…",
+        "summary": "Adquisición de niveles del CEFR, principalmente trabajo sobre el B1 junto a preparación de exámenes de Oxford del nivel correspondiente.",
         "highlights": [
           "SAAT",
           "Qualitas"
           ]
         },
         {
-          "name": "Cruz Roja",
+          "name": "Grupos de terapia para personas con demencia y Alzheimer",
           "position": "Especialista en Musicoterapia",
           "url": "",
           "startDate": "2019-01-01",
           "endDate": "2020",
-          "summary": "Description…",
+          "summary": "Atención grupal de diferentes niveles en un contexto socio-sanitario de un centro de día a personas con demencia y Alzheimer, en diferentes momentos de la progresión de la enfermedad.",
           "highlights": [
+            "Cruz Roja"
+            ]
+          },
+          {
+            "name": "Clases de inglés desde A2 a C1",
+            "position": "Profesor de inglés",
+            "url": "",
+            "startDate": "2018",
+            "summary": "Tanto alumnos individuales como grupos reducidos, preparación de exámenes Cambridge, Oxford y otros títulos.",
+            "highlights": [
+              "Barandal",
+              "Particulares"
             ]
           }
     ],
@@ -75,15 +87,42 @@
     }],
     "education": [
       {
-        "institution": "University",
-        "url": "https://institution.com/",
-        "area": "Software Development",
-        "studyType": "Bachelor",
-        "startDate": "2011-01-01",
-        "endDate": "2013-01-01",
-        "score": "4.0",
+        "institution": "Instituto Música, Arte y Proceso (MAP)",
+        "url": "",
+        "area": "Musicoterapia",
+        "studyType": "Máster",
+        "startDate": "2015",
+        "endDate": "2018",
+        "score": "",
+        "description": "Prácticas en un centro de atención al autismo y caso clínico en Atención Temprana.",
         "courses": [
-          "DB1101 - Basic SQL"
+          "POR COMPLETAR"
+        ]
+      },
+      {
+        "institution": "Universidad Nacional de Educación a Distancia (UNED)",
+        "url": "",
+        "area": "Estudios Ingleses",
+        "studyType": "Grado",
+        "startDate": "2012",
+        "endDate": "",
+        "score": "",
+        "description": "Anteriormente Filología Inglesa. Trabajo de final de grado en la especialización de terminología y análisis terminológico.",
+        "courses": [
+          "POR COMPLETAR"
+        ]
+      },
+      {
+        "institution": "Anglia Ruskin University - Cambridge",
+        "url": "",
+        "area": "Música Popular",
+        "studyType": "BA(Hons)/Grado",
+        "startDate": "2012",
+        "endDate": "2015",
+        "score": "",
+        "description": "Con nota final Notable, optativas de pedagogía musical, músicas del mundo y grabación en estudio.",
+        "courses": [
+          "POR COMPLETAR"
         ]
       }
     ],
@@ -152,6 +191,10 @@
       "summary": "Description…"
     }],
     "skills": [
+      {
+        "name": "Ofimática",
+        "type": "edu"
+      },
       {
         "name": "HTML5",
         "level": "Avanzado",
