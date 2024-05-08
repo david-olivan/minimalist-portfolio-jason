@@ -1,7 +1,7 @@
 ---
 import Section from "@components/Section.astro";
 
-import { education } from "cv.json";
+import { education } from "cv_en.json";
 
 const { title } = Astro.props
 ---
@@ -14,7 +14,7 @@ const { title } = Astro.props
                     <article>
                         <header>
                             <div>
-                                <h3>{ studyType } en { area }</h3>
+                                <h3>{ studyType } { area }</h3>
                                 <h4>{ institution }</h4>
                             </div>                            
                         </header>

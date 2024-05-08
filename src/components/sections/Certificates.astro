@@ -1,12 +1,17 @@
 ---
 import Section from "@components/Section.astro";
 
-import { certificates } from "cv.json"
+import { certificates } from "cv_en.json"
 
 const { title } = Astro.props
 ---
 
+<br>
+<br>
+<br>
+
 <Section title={ title || "Certificados"}>
+    <br>
     <ul>
         {
             certificates.map(({url, name, issuer, description}) => {
@@ -23,6 +28,7 @@ const { title } = Astro.props
                                 {/* <p>{description}</p> */}
                             </header>
                             <footer>
+                                {(description != "") && <span class="print">{description}</span>}
                                 <span>{issuer}</span>                             
                             </footer>
                         </article>
@@ -92,5 +98,9 @@ const { title } = Astro.props
         font-weight: 500;
         padding: 0.2rem 0.6rem;
         display: inline-flex;
+        
+        &.print{
+            background-color: lightcyan;
+        }
     }
 </style>

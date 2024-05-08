@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "David Oliván Malagón",
-      "label": "Desarrollador web, educador y programador",
+      "label": "Instructor, web developer, programmer",
       "image": "/profile.jpeg",
       "email": "david.olivan.93@gmail.com",
       "phone": "654 71 64 78",
       "url": "",
-      "summary": "Soy desarrollador web, programador y educador con amplia experiencia en este último sector. He impartido cursos de certificación del INAEM y SEPE, en diferentes centros, formando a docenas de alumnos en Desarrollo Web, UI/UX e Inglés. También he desarrollado varias páginas web, tanto personales como profesionales, usando tecnologías como HTML5 y herramientas de autor como WordPress. Me apasiona aprender cosas nuevas y estar al día de las últimas tendencias y novedades del mundo digital. Destaco a la hora de aprender rápidamente, gestionar y organizar procesos, y diseñar cursos y contenidos. Mi objetivo es seguir creciendo como profesional y aportar valor a la empresa o proyecto en el que me involucre.",
+      "summary": "I'm a web developer, programmer and instructor with a wealth of experience in that last regard. I have taught certification courses for the INAEM and SEPE (regional and national public sector employment agencies in Spain which also deliver reskilling and upskilling programs for unemployed people), training dozens of students in Web Development, UI/UX, Programming and other IT topics. I have developed several web pages, both personal and professional, using technologies such as HTML5 and CMS like WordPress. I have a passion for learning new things and keeping up to date with the last trends and news in the digital world. I have knack for learning quickly, managing and organizing processes and designing content and courses. My goal is to keep growing as a professional and adding value to the company or project that I'm involved with.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -29,48 +29,48 @@
     },
     "work": [
       {
-      "name": "Desarrollo Web para Certificado de Edicion de Productos Multimedia",
-      "position": "Docente de Desarrollo Web, UI/UX y Usabilidad",
+      "name": "IT Instructor: Web Development, Programming and other IT topics",
+      "position": "2+ years teaching Web Development, UI/UX, Programming and Usability",
       "url": "",
       "startDate": "2022-01-01",
-      "summary": "Módulos y UFs de desarrollo en en Certificados Multimedia, usando proyectos prácticos y ejercicios para la adquisición de las competencias pertinentes.",
+      "summary": "More than 2 years of experience teaching web development with HTML5, CSS3 and JavaScript, prototype design and heuristics in usability, as well as other technical aspect such as server management, databases (e.g. MySQL) and back-end, using frameworks such as Flask, and using practical projects and exercises for acquiring the appropriate competences. Skill-based teaching.",
       "highlights": [
         "CEOE",
         "King's Corner"
         ]
       },
       {
-        "name": "Certificados de Idiomas del INAEM (Inglés)",
-        "position": "Docente de Inglés",
+        "name": "INAEM Language Certificates (English)",
+        "position": "English Teacher",
         "url": "",
         "startDate": "2023-01-01",
         "endDate": "2023",
-        "summary": "Adquisición de niveles del CEFR, principalmente trabajo sobre el B1 junto a preparación de exámenes de Oxford del nivel correspondiente.",
+        "summary": "CEFR level acquisitions, mainly B1 along with Oxford exam preparations of equivalent levels.",
         "highlights": [
           "SAAT",
           "Qualitas"
           ]
         },
         {
-          "name": "Grupos de terapia para personas con demencia y Alzheimer",
-          "position": "Especialista en Musicoterapia",
+          "name": "Group therapy for patients of Alzheimer and dementia",
+          "position": "Music Therapy Specialist",
           "url": "",
           "startDate": "2019-01-01",
           "endDate": "2020",
-          "summary": "Atención grupal de diferentes niveles en un contexto socio-sanitario de un centro de día a personas con demencia y Alzheimer, en diferentes momentos de la progresión de la enfermedad.",
+          "summary": "Group work at different levels in a public health context within a daycare center with people with dementia and Alzheimer, in different moments of the illness progress.",
           "highlights": [
             "Cruz Roja"
             ]
           },
           {
-            "name": "Clases de inglés desde A2 a C1",
-            "position": "Profesor de inglés",
+            "name": "English Lessons from A2 to C1 levels",
+            "position": "English Teacher",
             "url": "",
             "startDate": "2018",
-            "summary": "Tanto alumnos individuales como grupos reducidos, preparación de exámenes Cambridge, Oxford y otros títulos.",
+            "summary": "Both individual students and reduced groups, exam preparation for Cambridge, Oxford and other titles.",
             "highlights": [
               "Barandal",
-              "Particulares"
+              "Independents"
             ]
           }
     ],
@@ -89,12 +89,12 @@
       {
         "institution": "Instituto Música, Arte y Proceso (MAP)",
         "url": "",
-        "area": "Musicoterapia",
-        "studyType": "Máster",
+        "area": "Music Therapy",
+        "studyType": "MA",
         "startDate": "2015",
         "endDate": "2018",
         "score": "",
-        "description": "Prácticas en un centro de atención al autismo y caso clínico en Atención Temprana.",
+        "description": "Work placement in an autism day center as well as a clinical case in Early Care.",
         "courses": [
           "POR COMPLETAR"
         ]
@@ -102,12 +102,12 @@
       {
         "institution": "Universidad Nacional de Educación a Distancia (UNED)",
         "url": "",
-        "area": "Estudios Ingleses",
-        "studyType": "Grado",
+        "area": "English Studies (Language, Culture and Media)",
+        "studyType": "BA(Hons)",
         "startDate": "2012",
         "endDate": "",
         "score": "",
-        "description": "Anteriormente Filología Inglesa. Trabajo de final de grado en la especialización de terminología y análisis terminológico.",
+        "description": "Major project (TFG) in the terminology specialization and terminological analysis as well as translation glossary creation.",
         "courses": [
           "POR COMPLETAR"
         ]
@@ -115,12 +115,12 @@
       {
         "institution": "Anglia Ruskin University - Cambridge",
         "url": "",
-        "area": "Música Popular",
-        "studyType": "BA(Hons)/Grado",
+        "area": "Popular Music",
+        "studyType": "BA(Hons)",
         "startDate": "2012",
         "endDate": "2015",
         "score": "",
-        "description": "Con nota final Notable, optativas de pedagogía musical, músicas del mundo y grabación en estudio.",
+        "description": "With a B+ final grade, optional modules of music pedagogy, world music and studio recording.",
         "courses": [
           "POR COMPLETAR"
         ]
@@ -148,49 +148,49 @@
         "url": "https://www.credly.com/badges/f4dad8fe-d1bf-4388-bca9-a90623a413c2"
       },
       {
-        "name": "Curso de Producción de Audiolibros",
+        "name": "Course in Audiobook Production",
         "date": "",
         "issuer": "RTVE - Instituto Haz",
         "description": "",
         "url": "/audiolibros.pdf"
       },
       {
-        "name": "Conceptos básicos de Código y Buenas Prácticas en HTML5",
+        "name": "HTML5.1x: HTML5 Coding Essentials and Best Practices",
         "date": "2023-01-05",
         "issuer": "W3Cx",
         "description": "https://bit.ly/cv-dom-html5-bp",
         "url": "https://courses.edx.org/certificates/502e5ff08f754fbdb6a5eb465f8b4076?_gl=1*1o6bbpk*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
       },
       {
-        "name": "CS50 Introducción a la Programación con Python",
+        "name": "CS50P: CS50's Introduction to Programming with Python",
         "date": "2023-01-05",
         "issuer": "HarvardX",
         "description": "https://bit.ly/cv-dom-cs50p",
         "url": "https://courses.edx.org/certificates/69b7a9a6c1584c83924d989263ed70c2?_gl=1*1gee28i*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
       },
       {
-        "name": "Fundamentos de HTML5 y CSS",
+        "name": "HTML5.0x: HTML5 and CSS Fundamentals",
         "date": "2022-09-12",
         "issuer": "W3Cx",
         "description": "https://bit.ly/cv-dom-html5",
         "url": "https://courses.edx.org/certificates/c110570028fc4fd29c12c2c60e81618f?_gl=1*1gee28i*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
       },
       {
-        "name": "CSS Esencial",
+        "name": "CSS.0x: CSS Basics",
         "date": "2022-09-04",
         "issuer": "W3Cx",
         "description": "https://bit.ly/cv-dom-css",
         "url": "https://courses.edx.org/certificates/b6e64314c10a4bce977247a53bf3bb9c?_gl=1*1ahocin*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
       },
       {
-        "name": "CS50 Introducción a Ciencias de la Computación",
+        "name": "CS50x: CS50's Introduction to Computer Science",
         "date": "2022-01-14",
-        "issuer": "HardvardX",
+        "issuer": "HarvardX",
         "description": "https://bit.ly/cv-dom-cs50x",
         "url": "https://courses.edx.org/certificates/83c8d0aebb0b4a089873cd5164eeb99b?_gl=1*1iatsp1*_ga*MzIwNDY3NzQwLjE3MDc5MDgyMTM.*_ga_D3KS4KMDT0*MTcwNzkwODIxMy4xLjEuMTcwNzkwODI2Ny42LjAuMA.."
       },
       {
-        "name": "Certificado de Formación del Profesorado en Didáctica del Inglés",
+        "name": "Certificate of Teacher Training in English Didactics",
         "date": "2019-11-07",
         "issuer": "UNED",
         "description": "",
@@ -214,7 +214,7 @@
         "type": "tech"
       },
       {
-        "name": "Ofimática",
+        "name": "Office software",
         "type": "edu"
       },
       {
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "name": "Metodologías activas",
+        "name": "Active methodologies",
         "level": "",
         "type": "edu"
       },
@@ -339,11 +339,11 @@
     ],
     "languages": [
       {
-        "language": "Inglés",
+        "language": "English",
         "fluency": "Native speaker"
       },
       {
-        "language": "Español",
+        "language": "Spanish",
         "fluency": "Native speaker"
       }
     ],

@@ -9,17 +9,31 @@ import Hero from '@components/sections/Hero.astro';
 import Certificates from '@components/sections/Certificates.astro';
 import Skills from '@components/sections/Skills.astro';
 //import KeyboardManager from '../components/KeyboardManager.astro';
+const strings_es = {
+	"skills": "Resumen de Conocimientos",
+	"education": "Educación",
+	"certificates": "Certificados",
+	"about": "Sobre mí",
+	"experience": "Experiencia Laboral"
+}
+const strings_en = {
+	"skills": "Skills",
+	"education": "Education",
+	"certificates": "Certificates",
+	"about": "About me",
+	"experience": "Experience"
+}
 ---
 
 <Layout title="David Oliván Malagón - CV">
 	<main>
 		<Hero />
-		<About />
-		<Skills title="Resumen de Conocimientos" />
-		<Experience />		
+		<About title={strings_en.about} />
+		<Skills title={strings_en.skills} />
+		<Experience title={strings_en.experience} />		
 		<!-- <Projects /> -->
-		<Certificates />
-		<Education title="Educación" />		
+		<Certificates title={strings_en.certificates} />
+		<Education title={strings_en.education} />		
 	</main>
 	<!-- <KeyboardManager /> -->
 </Layout>
